@@ -1,0 +1,5 @@
+*.user
+*.dll
+/bin/
+/obj/
+/.vs/
